@@ -1,1 +1,665 @@
+#EXTM3U
+#EXTINF:-1 group-title="General Entertainment",Channel INFO
+http://coklat.cricket:8888/finance/finance/1
+#EXTINF:-1 group-title="Nasional:HD",NET HD
+http://coklat.cricket:8888/finance/finance/3579
+#EXTINF:-1 group-title="Nasional",Trans 7
+http://coklat.cricket:8888/finance/finance/3583
+#EXTINF:-1 group-title="Nasional",Trans TV
+http://coklat.cricket:8888/finance/finance/3584
+#EXTINF:-1 group-title="Nasional",ANTV
+http://coklat.cricket:8888/finance/finance/3588
+#EXTINF:-1 group-title="Nasional",SCTV
+http://coklat.cricket:8888/finance/finance/3593
+#EXTINF:-1 group-title="Nasional",Indosiar
+http://coklat.cricket:8888/finance/finance/4839
+#EXTINF:-1 group-title="Nasional",TV One
+http://coklat.cricket:8888/finance/finance/3587
+#EXTINF:-1 group-title="Nasional",Metro TV
+http://coklat.cricket:8888/finance/finance/3589
+#EXTINF:-1 group-title="Nasional",Kompas TV
+http://coklat.cricket:8888/finance/finance/3590
+#EXTINF:-1 group-title="Berita",Berita Satu
+http://coklat.cricket:8888/finance/finance/3578
+#EXTINF:-1 group-title="Nasional",TVRI
+http://coklat.cricket:8888/finance/finance/3594
+#EXTINF:-1 group-title="Nasional",Rajawali TV
+http://coklat.cricket:8888/finance/finance/3591
+#EXTINF:-1 group-title="Religi",Rodja
+http://coklat.cricket:8888/finance/finance/3592
+#EXTINF:-1 group-title="General Entertainment",K Drama
+http://coklat.cricket:8888/finance/finance/3595
+#EXTINF:-1 group-title="Lokal",O Channel
+http://coklat.cricket:8888/finance/finance/3597
+#EXTINF:-1 group-title="Lokal",Jak TV
+http://coklat.cricket:8888/finance/finance/3598
+#EXTINF:-1 group-title="Lokal",DAAI TV
+http://coklat.cricket:8888/finance/finance/3599
+#EXTINF:-1 group-title="Lokal",JTV
+http://coklat.cricket:8888/finance/finance/3600
+#EXTINF:-1 group-title="News",CNA
+http://coklat.cricket:8888/finance/finance/3580
+#EXTINF:-1 group-title="Kids",Da Vinci Kids
+http://coklat.cricket:8888/finance/finance/3577
+#EXTINF:-1 group-title="News",BBC World News
+http://coklat.cricket:8888/finance/finance/3585
+#EXTINF:-1 group-title="News",France 24
+http://coklat.cricket:8888/finance/finance/3586
+#EXTINF:-1 group-title="Kids",Spacetoon
+http://coklat.cricket:8888/finance/finance/3603
+#EXTINF:-1 group-title="General Entertainment",Arirang
+http://coklat.cricket:8888/finance/finance/3604
+#EXTINF:-1 group-title="General Entertainment",XingXong
+http://coklat.cricket:8888/finance/finance/3605
+#EXTINF:-1 group-title="News",Aljazeera
+http://coklat.cricket:8888/finance/finance/3606
+#EXTINF:-1 group-title="News",Bloomberg
+http://coklat.cricket:8888/finance/finance/3607
+#EXTINF:-1 group-title="News",RT
+http://coklat.cricket:8888/finance/finance/3608
+#EXTINF:-1 group-title="News",MY TV
+http://coklat.cricket:8888/finance/finance/3610
+#EXTINF:-1,Server ID: Disney Channel
+http://coklat.cricket:8888/finance/finance/3613
+#EXTINF:-1,Server ID: Disney Junior
+http://coklat.cricket:8888/finance/finance/3614
+#EXTINF:-1,Server ID: Animal Planet HD
+http://coklat.cricket:8888/finance/finance/3615
+#EXTINF:-1,Server ID: Animal Planet FHD
+http://coklat.cricket:8888/finance/finance/3616
+#EXTINF:-1,Server ID: Discovery Channel HD
+http://coklat.cricket:8888/finance/finance/3617
+#EXTINF:-1,Server ID: Discovery Channel FHD
+http://coklat.cricket:8888/finance/finance/3618
+#EXTINF:-1,Server ID: Nat Geo FHD
+http://coklat.cricket:8888/finance/finance/13690
+#EXTINF:-1,Server ID: Nat Geo Wild FHD
+http://coklat.cricket:8888/finance/finance/13717
+#EXTINF:-1,Server ID: Nat Geo People FHD
+http://coklat.cricket:8888/finance/finance/13718
+#EXTINF:-1,Server ID: Nat Geo People HD
+http://coklat.cricket:8888/finance/finance/3619
+#EXTINF:-1,Server ID: Nat Geo Wild HD
+http://coklat.cricket:8888/finance/finance/3620
+#EXTINF:-1,Server ID: Nat Geo HD
+http://coklat.cricket:8888/finance/finance/3621
+#EXTINF:-1,Server ID: Disc Asia HD
+http://coklat.cricket:8888/finance/finance/3622
+#EXTINF:-1,Server ID: BBC Lifestyle HD
+http://coklat.cricket:8888/finance/finance/3623
+#EXTINF:-1,Server ID: Channel V HD
+http://coklat.cricket:8888/finance/finance/3624
 
+#EXTINF:-1,Server ID: TLC HD
+http://coklat.cricket:8888/finance/finance/3626
+#EXTINF:-1,Server ID: AFC HD
+http://coklat.cricket:8888/finance/finance/3627
+#EXTINF:-1,Server ID: HGTV HD
+http://coklat.cricket:8888/finance/finance/3628
+#EXTINF:-1,Server ID: Animax HD
+http://coklat.cricket:8888/finance/finance/3630
+#EXTINF:-1,Server ID: AXN HD
+http://coklat.cricket:8888/finance/finance/3631
+#EXTINF:-1,Server ID: S GEM HD
+http://coklat.cricket:8888/finance/finance/3632
+#EXTINF:-1,Server ID: FOX HD
+http://coklat.cricket:8888/finance/finance/3633
+#EXTINF:-1,Server ID: FOX FHD
+http://coklat.cricket:8888/finance/finance/3634
+#EXTINF:-1,Server ID: FOX Life HD
+http://coklat.cricket:8888/finance/finance/3635
+#EXTINF:-1,Server ID: FOX Life FHD
+http://coklat.cricket:8888/finance/finance/3636
+#EXTINF:-1,Server ID: FOX Crime HD
+http://coklat.cricket:8888/finance/finance/3637
+#EXTINF:-1,Server ID: FOX Crime FHD
+http://coklat.cricket:8888/finance/finance/3638
+#EXTINF:-1,Server ID: FOX Movies HD
+http://coklat.cricket:8888/finance/finance/3639
+#EXTINF:-1,Server ID: FOX Movies FHD
+http://coklat.cricket:8888/finance/finance/3640
+#EXTINF:-1,Server ID: FOX Action HD
+http://coklat.cricket:8888/finance/finance/3641
+#EXTINF:-1,Server ID: FOX Action FHD
+http://coklat.cricket:8888/finance/finance/3642
+#EXTINF:-1,Server ID: FOX Family Movies HD
+http://coklat.cricket:8888/finance/finance/3643
+#EXTINF:-1,Server ID: FOX Family Movies FHD
+http://coklat.cricket:8888/finance/finance/3644
+#EXTINF:-1,Server ID: FX HD
+http://coklat.cricket:8888/finance/finance/3645
+#EXTINF:-1,Server ID: FX FHD
+http://coklat.cricket:8888/finance/finance/3646
+
+#EXTINF:-1,Red By HBO HD
+http://coklat.cricket:8888/finance/finance/4832
+
+#EXTINF:-1,Server ID: Sony ONE HD
+http://coklat.cricket:8888/finance/finance/3647
+#EXTINF:-1,Server ID: FOX Sport HD
+http://coklat.cricket:8888/finance/finance/3648
+#EXTINF:-1,Server ID: FOX Sport FHD
+http://coklat.cricket:8888/finance/finance/3649
+
+#EXTINF:-1,Server ID: FOX Sport 2 FHD
+http://coklat.cricket:8888/finance/finance/3651
+#EXTINF:-1,Server ID: FOX Sport 3 HD
+http://coklat.cricket:8888/finance/finance/3652
+#EXTINF:-1,Server ID: FOX Sport 3 FHD
+http://coklat.cricket:8888/finance/finance/3653
+#EXTINF:-1,NET TV
+http://coklat.cricket:8888/finance/finance/24
+#EXTINF:-1,NET TV FHD
+http://coklat.cricket:8888/finance/finance/78
+#EXTINF:-1,Trans TV
+http://coklat.cricket:8888/finance/finance/34
+#EXTINF:-1,Trans TV FHD
+http://coklat.cricket:8888/finance/finance/929
+
+#EXTINF:-1,Trans 7 FHD
+http://coklat.cricket:8888/finance/finance/930
+#EXTINF:-1,SCTV
+http://coklat.cricket:8888/finance/finance/32
+
+#EXTINF:-1,Indosiar
+http://coklat.cricket:8888/finance/finance/1845
+#EXTINF:-1,Indosiar HD
+http://coklat.cricket:8888/finance/finance/33
+#EXTINF:-1,O Channel
+http://coklat.cricket:8888/finance/finance/1727
+#EXTINF:-1,ANTV
+http://coklat.cricket:8888/finance/finance/31
+#EXTINF:-1,Channel News Asia
+http://coklat.cricket:8888/finance/finance/1191
+
+#EXTINF:-1,CNN Indonesia
+http://coklat.cricket:8888/finance/finance/44
+#EXTINF:-1,CNN Int
+http://coklat.cricket:8888/finance/finance/1200
+#EXTINF:-1,Berita Satu News
+http://coklat.cricket:8888/finance/finance/136
+#EXTINF:-1,DW TV Asia
+http://coklat.cricket:8888/finance/finance/205
+#EXTINF:-1,TV ONE
+http://coklat.cricket:8888/finance/finance/29
+#EXTINF:-1,Kompas TV
+http://coklat.cricket:8888/finance/finance/30
+
+#EXTINF:-1,Metro TV
+http://coklat.cricket:8888/finance/finance/52
+#EXTINF:-1,Insert
+http://coklat.cricket:8888/finance/finance/1763
+#EXTINF:-1,Bloomberg TV Asia
+http://coklat.cricket:8888/finance/finance/137
+#EXTINF:-1,Rajawali TV
+http://coklat.cricket:8888/finance/finance/37
+#EXTINF:-1,Spacetoon
+http://coklat.cricket:8888/finance/finance/1541
+
+#EXTINF:-1,Dunia Anak
+http://coklat.cricket:8888/finance/finance/907
+#EXTINF:-1,Toonmax
+http://coklat.cricket:8888/finance/finance/1116
+#EXTINF:-1,Disney XD
+http://coklat.cricket:8888/finance/finance/104
+#EXTINF:-1,Disney UK
+http://coklat.cricket:8888/finance/finance/2336
+#EXTINF:-1,Duck TV
+http://coklat.cricket:8888/finance/finance/1854
+#EXTINF:-1,Nick Toons
+http://coklat.cricket:8888/finance/finance/335
+#EXTINF:-1,Nickelodeon ID
+http://coklat.cricket:8888/finance/finance/962
+#EXTINF:-1,Nick Jr ID
+http://coklat.cricket:8888/finance/finance/522
+#EXTINF:-1,Disney Channel
+http://coklat.cricket:8888/finance/finance/306
+#EXTINF:-1,Disney Channel ID
+http://coklat.cricket:8888/finance/finance/3479
+#EXTINF:-1,Cartoon Network ID HD
+http://coklat.cricket:8888/finance/finance/680
+#EXTINF:-1,Boomerang
+http://coklat.cricket:8888/finance/finance/305
+#EXTINF:-1,Baby TV
+http://coklat.cricket:8888/finance/finance/296
+#EXTINF:-1,Nick Jr 2
+http://coklat.cricket:8888/finance/finance/341
+#EXTINF:-1,Disney Junior
+http://coklat.cricket:8888/finance/finance/213
+
+#EXTINF:-1,Jak TV
+http://coklat.cricket:8888/finance/finance/1210
+#EXTINF:-1,DAAI TV
+http://coklat.cricket:8888/finance/finance/21
+#EXTINF:-1,TV Mu
+http://coklat.cricket:8888/finance/finance/1726
+#EXTINF:-1,Makkah TV
+http://coklat.cricket:8888/finance/finance/297
+#EXTINF:-1,Madina TV
+http://coklat.cricket:8888/finance/finance/912
+#EXTINF:-1,Bali TV
+http://coklat.cricket:8888/finance/finance/889
+#EXTINF:-1,T Music
+http://coklat.cricket:8888/finance/finance/905
+#EXTINF:-1,TAWAF TV
+http://coklat.cricket:8888/finance/finance/14997
+#EXTINF:-1,Rodja TV
+http://coklat.cricket:8888/finance/finance/843
+#EXTINF:-1,JTV
+http://coklat.cricket:8888/finance/finance/135
+#EXTINF:-1,Dunia Lain
+http://coklat.cricket:8888/finance/finance/910
+#EXTINF:-1,Bioskop Indonesia
+http://coklat.cricket:8888/finance/finance/908
+#EXTINF:-1,HITS FHD
+http://coklat.cricket:8888/finance/finance/1195
+#EXTINF:-1,Hits Movie FHD
+http://coklat.cricket:8888/finance/finance/957
+#EXTINF:-1,Cinema World
+http://coklat.cricket:8888/finance/finance/1194
+#EXTINF:-1,Star Chinese Movies Legend
+http://coklat.cricket:8888/finance/finance/1859
+#EXTINF:-1,CCM
+http://coklat.cricket:8888/finance/finance/2118
+#EXTINF:-1,FOX Movies HD
+http://coklat.cricket:8888/finance/finance/98
+#EXTINF:-1,FOX Movies HD Backup
+http://coklat.cricket:8888/finance/finance/978
+#EXTINF:-1,FOX Movies FHD
+http://coklat.cricket:8888/finance/finance/1205
+#EXTINF:-1,FOX Action Movies HD
+http://coklat.cricket:8888/finance/finance/99
+#EXTINF:-1,FOX Action Movies HD Backup
+http://coklat.cricket:8888/finance/finance/979
+#EXTINF:-1,FOX Action Movies FHD
+http://coklat.cricket:8888/finance/finance/1478
+#EXTINF:-1,FOX Action Movies SD
+http://coklat.cricket:8888/finance/finance/1125
+
+#EXTINF:-1,FOX Family Movies EN
+http://coklat.cricket:8888/finance/finance/1493
+#EXTINF:-1,FOX Crime HD
+http://coklat.cricket:8888/finance/finance/763
+#EXTINF:-1,IMC
+http://coklat.cricket:8888/finance/finance/1483
+#EXTINF:-1,FOX Crime FHD
+http://coklat.cricket:8888/finance/finance/3334
+#EXTINF:-1,FOX Crime SD
+http://coklat.cricket:8888/finance/finance/2257
+#EXTINF:-1,Galaxy SD
+http://coklat.cricket:8888/finance/finance/29604
+#EXTINF:-1,Galaxy Premium SD
+http://coklat.cricket:8888/finance/finance/29603
+#EXTINF:-1,FLIK HD
+http://coklat.cricket:8888/finance/finance/29592
+#EXTINF:-1,Smithsonian Channel
+http://coklat.cricket:8888/finance/finance/14103
+#EXTINF:-1,Zoo Moo FHD
+http://coklat.cricket:8888/finance/finance/14104
+#EXTINF:-1,Love Nature 4K
+http://coklat.cricket:8888/finance/finance/14105
+#EXTINF:-1,National Geographic Wild HD
+http://coklat.cricket:8888/finance/finance/97
+#EXTINF:-1,FOX Life HD
+http://coklat.cricket:8888/finance/finance/94
+#EXTINF:-1,FOX HD
+http://coklat.cricket:8888/finance/finance/95
+#EXTINF:-1,FX HD
+http://coklat.cricket:8888/finance/finance/776
+#EXTINF:-1,HBO HD
+http://coklat.cricket:8888/finance/finance/210
+#EXTINF:-1,HBO FHD
+http://coklat.cricket:8888/finance/finance/1496
+#EXTINF:-1,HBO Hits HD
+http://coklat.cricket:8888/finance/finance/591
+#EXTINF:-1,HBO Hits FHD
+http://coklat.cricket:8888/finance/finance/11492
+#EXTINF:-1,HBO Family HD
+http://coklat.cricket:8888/finance/finance/592
+#EXTINF:-1,HBO Signature HD
+http://coklat.cricket:8888/finance/finance/873
+
+#EXTINF:-1,HBO SD
+http://coklat.cricket:8888/finance/finance/26595
+#EXTINF:-1,HBO Hits SD
+http://coklat.cricket:8888/finance/finance/26596
+#EXTINF:-1,HBO Signature SD
+http://coklat.cricket:8888/finance/finance/26597
+#EXTINF:-1,HBO Family SD
+http://coklat.cricket:8888/finance/finance/26598
+#EXTINF:-1,Cinemax SD
+http://coklat.cricket:8888/finance/finance/26599
+#EXTINF:-1,LifeTime FHD
+http://coklat.cricket:8888/finance/finance/866
+#EXTINF:-1,Warner TV ID HD
+http://coklat.cricket:8888/finance/finance/1533
+#EXTINF:-1,Star Chinese Movies HD
+http://coklat.cricket:8888/finance/finance/780
+#EXTINF:-1,Blue Ant Extreme FHD
+http://coklat.cricket:8888/finance/finance/811
+#EXTINF:-1,Waku Waku Japan HD
+http://coklat.cricket:8888/finance/finance/717
+#EXTINF:-1,HGTV
+http://coklat.cricket:8888/finance/finance/537
+#EXTINF:-1,AFC HD
+http://coklat.cricket:8888/finance/finance/807
+#EXTINF:-1,tVN Movies
+http://coklat.cricket:8888/finance/finance/927
+#EXTINF:-1,National Geographic Channel HD
+http://coklat.cricket:8888/finance/finance/96
+#EXTINF:-1,National Geographic Channel SD
+http://coklat.cricket:8888/finance/finance/1504
+#EXTINF:-1,National Geographic People
+http://coklat.cricket:8888/finance/finance/455
+#EXTINF:-1,National Geographic Channel Backup
+http://coklat.cricket:8888/finance/finance/1445
+#EXTINF:-1,National Geographic Wild Backup
+http://coklat.cricket:8888/finance/finance/1446
+#EXTINF:-1,National Geographic People Backup
+http://coklat.cricket:8888/finance/finance/1447
+#EXTINF:-1,History HD
+http://coklat.cricket:8888/finance/finance/718
+#EXTINF:-1,History FHD
+http://coklat.cricket:8888/finance/finance/8131
+#EXTINF:-1,Animal Planet HD
+http://coklat.cricket:8888/finance/finance/358
+#EXTINF:-1,Discovery Channel HD
+http://coklat.cricket:8888/finance/finance/165
+#EXTINF:-1,Discovery Asia
+http://coklat.cricket:8888/finance/finance/779
+#EXTINF:-1,Discovery Science HD
+http://coklat.cricket:8888/finance/finance/408
+#EXTINF:-1,Discovery Shed
+http://coklat.cricket:8888/finance/finance/333
+#EXTINF:-1,Discovery Turbo
+http://coklat.cricket:8888/finance/finance/462
+#EXTINF:-1,Crime Investigation
+http://coklat.cricket:8888/finance/finance/332
+#EXTINF:-1,IN: Zing TV
+http://coklat.cricket:8888/finance/finance/813
+#EXTINF:-1,Fashion TV
+http://coklat.cricket:8888/finance/finance/280
+#EXTINF:-1,Sony ONE
+http://coklat.cricket:8888/finance/finance/19
+
+#EXTINF:-1,Tennis Channel
+http://coklat.cricket:8888/finance/finance/482
+#EXTINF:-1,DMAX
+http://coklat.cricket:8888/finance/finance/483
+#EXTINF:-1,K Drama
+http://coklat.cricket:8888/finance/finance/1699
+#EXTINF:-1,K+ TV
+http://coklat.cricket:8888/finance/finance/18
+#EXTINF:-1,Star World
+http://coklat.cricket:8888/finance/finance/381
+#EXTINF:-1,BBC Earth
+http://coklat.cricket:8888/finance/finance/385
+#EXTINF:-1,IN: Sony Max HD
+http://coklat.cricket:8888/finance/finance/180
+#EXTINF:-1,Zee Bioskop
+http://coklat.cricket:8888/finance/finance/7
+#EXTINF:-1,Thrill
+http://coklat.cricket:8888/finance/finance/4
+#EXTINF:-1,KIX
+http://coklat.cricket:8888/finance/finance/8
+#EXTINF:-1,Celestial Movies
+http://coklat.cricket:8888/finance/finance/5
+#EXTINF:-1,AXN
+http://coklat.cricket:8888/finance/finance/9
+#EXTINF:-1,Aniplus
+http://coklat.cricket:8888/finance/finance/2
+#EXTINF:-1,Animax
+http://coklat.cricket:8888/finance/finance/3
+#EXTINF:-1,Channel V Int
+http://coklat.cricket:8888/finance/finance/766
+#EXTINF:-1,KBS World
+http://coklat.cricket:8888/finance/finance/15057
+#EXTINF:-1,S GEM HD
+http://coklat.cricket:8888/finance/finance/770
+#EXTINF:-1,TVN ID
+http://coklat.cricket:8888/finance/finance/767
+#EXTINF:-1,Bloomberg
+http://coklat.cricket:8888/finance/finance/788
+#EXTINF:-1,France 24
+http://coklat.cricket:8888/finance/finance/787
+#EXTINF:-1,NHK World Japan
+http://coklat.cricket:8888/finance/finance/785
+#EXTINF:-1,TV 5 Monde Asie
+http://coklat.cricket:8888/finance/finance/786
+#EXTINF:-1,BBC World News HD
+http://coklat.cricket:8888/finance/finance/789
+#EXTINF:-1,CBeebies
+http://coklat.cricket:8888/finance/finance/491
+#EXTINF:-1,Every Good Game
+http://coklat.cricket:8888/finance/finance/921
+#EXTINF:-1,Prambors TV
+http://coklat.cricket:8888/finance/finance/1157
+#EXTINF:-1,ONE African TV
+http://coklat.cricket:8888/finance/finance/1731
+#EXTINF:-1,MTV LIVE FHD
+http://coklat.cricket:8888/finance/finance/9110
+#EXTINF:-1,MTV
+http://coklat.cricket:8888/finance/finance/281
+#EXTINF:-1,MTV Music
+http://coklat.cricket:8888/finance/finance/286
+#EXTINF:-1,MTV Hits
+http://coklat.cricket:8888/finance/finance/287
+#EXTINF:-1,MTV Dance
+http://coklat.cricket:8888/finance/finance/288
+#EXTINF:-1,MTV Classic
+http://coklat.cricket:8888/finance/finance/289
+#EXTINF:-1,MTV Base
+http://coklat.cricket:8888/finance/finance/291
+#EXTINF:-1,Trace Naija
+http://coklat.cricket:8888/finance/finance/113
+#EXTINF:-1,Trace Urban
+http://coklat.cricket:8888/finance/finance/106
+#EXTINF:-1,Trace Mizki
+http://coklat.cricket:8888/finance/finance/109
+#EXTINF:-1,Trace Africa
+http://coklat.cricket:8888/finance/finance/108
+#EXTINF:-1,Trace Tropical
+http://coklat.cricket:8888/finance/finance/112
+#EXTINF:-1,Trace Toca
+http://coklat.cricket:8888/finance/finance/111
+#EXTINF:-1,TLC HD
+http://coklat.cricket:8888/finance/finance/352
+#EXTINF:-1,TLC English
+http://coklat.cricket:8888/finance/finance/351
+#EXTINF:-1,Golf Channel FHD
+http://coklat.cricket:8888/finance/finance/561
+#EXTINF:-1,BeIN Max HD Malaysia
+http://coklat.cricket:8888/finance/finance/4272
+#EXTINF:-1,BeIN Max HD Malaysia 50fps
+http://coklat.cricket:8888/finance/finance/6003
+#EXTINF:-1,Astro Arena HD
+http://coklat.cricket:8888/finance/finance/4236
+#EXTINF:-1,Astro Arena HD 50fps
+http://coklat.cricket:8888/finance/finance/4838
+#EXTINF:-1,Astro Cricket HD
+http://coklat.cricket:8888/finance/finance/4237
+#EXTINF:-1,Fox Sports 1
+http://coklat.cricket:8888/finance/finance/51
+#EXTINF:-1,Fox Sports 1 HD Backup
+http://coklat.cricket:8888/finance/finance/1475
+#EXTINF:-1,Fox Sports 1 SD
+http://coklat.cricket:8888/finance/finance/26628
+#EXTINF:-1,Fox Sports 2
+http://coklat.cricket:8888/finance/finance/102
+#EXTINF:-1,Fox Sports 2 HD Backup
+http://coklat.cricket:8888/finance/finance/1476
+#EXTINF:-1,Fox Sports 2 SD
+http://coklat.cricket:8888/finance/finance/26633
+#EXTINF:-1,Fox Sports 3
+http://coklat.cricket:8888/finance/finance/101
+#EXTINF:-1,Fox Sports 3 HD Backup
+http://coklat.cricket:8888/finance/finance/1477
+#EXTINF:-1,Fox Sports 3 SD
+http://coklat.cricket:8888/finance/finance/26634
+
+#EXTINF:-1,Star Sport 3 HD
+http://coklat.cricket:8888/finance/finance/14950
+#EXTINF:-1,MU TV
+http://coklat.cricket:8888/finance/finance/400
+#EXTINF:-1,Golf HD
+http://coklat.cricket:8888/finance/finance/864
+#EXTINF:-1,Fight Sports
+http://coklat.cricket:8888/finance/finance/784
+#EXTINF:-1,FIGHT BOX
+http://coklat.cricket:8888/finance/finance/501
+#EXTINF:-1,Box Nation
+http://coklat.cricket:8888/finance/finance/499
+#EXTINF:-1,WWE Network
+http://coklat.cricket:8888/finance/finance/299
+#EXTINF:-1,Real Madrid TV
+http://coklat.cricket:8888/finance/finance/244
+#EXTINF:-1,Blue Ant Entertainment FHD
+http://coklat.cricket:8888/finance/finance/1506
+#EXTINF:-1,NBA TV HD
+http://coklat.cricket:8888/finance/finance/3099
+#EXTINF:-1,NBA TV HD US
+http://coklat.cricket:8888/finance/finance/243
+#EXTINF:-1,Ten Golf HD
+http://coklat.cricket:8888/finance/finance/224
+#EXTINF:-1,PT: Sport TV 1 backup
+http://coklat.cricket:8888/finance/finance/2730
+#EXTINF:-1,PT: Sport TV 2 backup
+http://coklat.cricket:8888/finance/finance/2732
+#EXTINF:-1,PT: Sport TV 3 backup
+http://coklat.cricket:8888/finance/finance/2734
+#EXTINF:-1,PT: Sport TV 4 backup
+http://coklat.cricket:8888/finance/finance/2736
+#EXTINF:-1,PT: Sport TV 5 backup
+http://coklat.cricket:8888/finance/finance/2738
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://coklat.cricket:8888/finance/finance/2740
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://coklat.cricket:8888/finance/finance/2741
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://coklat.cricket:8888/finance/finance/2742
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://coklat.cricket:8888/finance/finance/2743
+
+#EXTINF:-1,FMN
+http://coklat.cricket:8888/finance/finance/11489
+#EXTINF:-1,Sony Ten 1 HD
+http://coklat.cricket:8888/finance/finance/12132
+
+#EXTINF:-1,Sony Ten 3 HD
+http://coklat.cricket:8888/finance/finance/12134
+#EXTINF:-1,Sony Six HD
+http://coklat.cricket:8888/finance/finance/12136
+#EXTINF:-1,Piala Indonesia
+http://coklat.cricket:8888/finance/finance/2150
+#EXTINF:-1,Khanzanah
+http://coklat.cricket:8888/finance/finance/2207
+#EXTINF:-1,Sinema Indonesia
+http://coklat.cricket:8888/finance/finance/3476
+#EXTINF:-1,Channel 5
+http://coklat.cricket:8888/finance/finance/11199
+#EXTINF:-1,Channel 8
+http://coklat.cricket:8888/finance/finance/11200
+#EXTINF:-1,Horee
+http://coklat.cricket:8888/finance/finance/14106
+#EXTINF:-1,TVRI
+http://coklat.cricket:8888/finance/finance/36
+#EXTINF:-1,Duck TV UK
+http://coklat.cricket:8888/finance/finance/14944
+#EXTINF:-1,CGTN News
+http://coklat.cricket:8888/finance/finance/15070
+#EXTINF:-1,Bayern TV
+http://coklat.cricket:8888/finance/finance/15084
+#EXTINF:-1,Arena Sport 1 HD
+http://coklat.cricket:8888/finance/finance/15089
+#EXTINF:-1,Arena Sport 2 HD
+http://coklat.cricket:8888/finance/finance/15090
+#EXTINF:-1,Arena Sport 3 HD
+http://coklat.cricket:8888/finance/finance/15091
+#EXTINF:-1,Arena Sport 4 HD
+http://coklat.cricket:8888/finance/finance/15092
+#EXTINF:-1,Arena Sport 5 HD
+http://coklat.cricket:8888/finance/finance/15093
+
+#EXTINF:-1,Stadium Sports Network
+http://coklat.cricket:8888/finance/finance/19012
+#EXTINF:-1,Tennis Channel 2
+http://coklat.cricket:8888/finance/finance/19168
+#EXTINF:-1,NFL Network HD
+http://coklat.cricket:8888/finance/finance/19208
+#EXTINF:-1,Server ID: History
+http://coklat.cricket:8888/finance/finance/24220
+
+#EXTINF:-1,ESPN 2
+http://coklat.cricket:8888/finance/finance/24889
+#EXTINF:-1,Lax Sports Network
+http://coklat.cricket:8888/finance/finance/25212
+#EXTINF:-1,TSN 1 HD
+http://coklat.cricket:8888/finance/finance/25357
+
+#EXTINF:-1,TSN 3 HD
+http://coklat.cricket:8888/finance/finance/25358
+#EXTINF:-1,TSN 4 HD
+http://coklat.cricket:8888/finance/finance/25359
+#EXTINF:-1,TSN 5 HD
+http://coklat.cricket:8888/finance/finance/25360
+#EXTINF:-1,Channel U
+http://coklat.cricket:8888/finance/finance/26209
+#EXTINF:-1,Okto
+http://coklat.cricket:8888/finance/finance/26210
+
+#EXTINF:-1,Wesal TV
+http://coklat.cricket:8888/finance/finance/26629
+#EXTINF:-1,Ahsan TV
+http://coklat.cricket:8888/finance/finance/26630
+#EXTINF:-1,Al-Iman TV
+http://coklat.cricket:8888/finance/finance/26631
+#EXTINF:-1,Reformed 21
+http://coklat.cricket:8888/finance/finance/26632
+#EXTINF:-1,Vision Prime
+http://coklat.cricket:8888/finance/finance/26635
+#EXTINF:-1,CH3 FHD
+http://coklat.cricket:8888/finance/finance/26636
+#EXTINF:-1,CH5 FHD
+http://coklat.cricket:8888/finance/finance/26638
+#EXTINF:-1,CH7 FHD
+http://coklat.cricket:8888/finance/finance/26640
+#EXTINF:-1,ThaiPBS FHD
+http://coklat.cricket:8888/finance/finance/26644
+#EXTINF:-1,ONE FHD
+http://coklat.cricket:8888/finance/finance/26646
+#EXTINF:-1,GMM25
+http://coklat.cricket:8888/finance/finance/26656
+#EXTINF:-1,Amarin FHD
+http://coklat.cricket:8888/finance/finance/26648
+#EXTINF:-1,True4U
+http://coklat.cricket:8888/finance/finance/26660
+#EXTINF:-1,Voice TV
+http://coklat.cricket:8888/finance/finance/26662
+#EXTINF:-1,ZQTV Drama
+http://coklat.cricket:8888/finance/finance/26979
+#EXTINF:-1,VTV 6
+http://coklat.cricket:8888/finance/finance/27058
+#EXTINF:-1,Server ID: Nick JR ID
+http://coklat.cricket:8888/finance/finance/14165
+#EXTINF:-1,BeIN Sport 2 ID
+http://coklat.cricket:8888/finance/finance/729
+#EXTINF:-1,BeIN Sport 1 ID
+http://coklat.cricket:8888/finance/finance/728
+#EXTINF:-1,i konser
+http://coklat.cricket:8888/finance/finance/29594
+#EXTINF:-1,Zhejiang International
+http://coklat.cricket:8888/finance/finance/29595
+#EXTINF:-1,Shenzhen International
+http://coklat.cricket:8888/finance/finance/29596
+#EXTINF:-1,ETTV Asia
+http://coklat.cricket:8888/finance/finance/29597
+#EXTINF:-1,Kungfu TV
+http://coklat.cricket:8888/finance/finance/29598
+#EXTINF:-1,Chinese Drama
+http://coklat.cricket:8888/finance/finance/29599
+#EXTINF:-1,TVBS News
+http://coklat.cricket:8888/finance/finance/29600
+#EXTINF:-1,Formosa
+http://coklat.cricket:8888/finance/finance/29601
+#EXTINF:-1,CTI Asia
+http://coklat.cricket:8888/finance/finance/29602
